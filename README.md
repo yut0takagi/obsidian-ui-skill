@@ -82,6 +82,8 @@ authoritative only for the failures it measured.
 
 ## Licence
 
-MIT. See [`LICENSE`](LICENSE), which also preserves ObsidianUI's own MIT notice for
-the reproduced agent instructions. Demo media on obsidianui.dev is not MIT — swap it
-for your own assets.
+MIT — see [`LICENSE`](LICENSE).
+
+[`NOTICE.md`](NOTICE.md) covers the third-party side: ObsidianUI's own MIT notice for
+the reproduced agent instructions, and the fact that demo media on obsidianui.dev
+(images, `.glb` models, HDR maps) is **not** MIT. Swap those for your own assets.
