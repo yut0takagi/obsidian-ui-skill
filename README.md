@@ -13,7 +13,7 @@ are silent — the build passes, the page returns 200, and the component is brok
 ## Install
 
 ```bash
-git clone <this-repo> obsidian-ui-skill
+git clone https://github.com/yut0takagi/obsidian-ui-skill.git obsidian-ui-skill
 ln -s "$PWD/obsidian-ui-skill/obsidian-ui" ~/.claude/skills/obsidian-ui
 ```
 
