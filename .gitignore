@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Playwright MCP artifacts (verification runs, not part of the skill)
+.playwright-mcp/
+*.png
+
+# Editor
+.vscode/
+.idea/
